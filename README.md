@@ -1,5 +1,10 @@
-## Hi there 👋
+#
 
+📍 Based in Toronto & Kingston
+
+🚀 Passionate about learning new technologies (AI/ML, Software, Data Science)
+
+⚡ Quick learner, driven to solve real-world problems through tech
 <!--
 **abdullah-mohsin1/abdullah-mohsin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
