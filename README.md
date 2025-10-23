@@ -2,7 +2,7 @@
 
 📍 Based in Toronto & Kingston
 
-🚀 Passionate about learning new technologies (AI/ML, Software, Data Science)
+🚀 Passionate about learning new technologies (AI/ML, Software, Data)
 
 ⚡ Quick learner, driven to solve real-world problems through tech
 <!--
