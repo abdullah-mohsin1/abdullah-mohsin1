@@ -1,6 +1,8 @@
 # Hi 👋, I'm Abdullah Mohsin
 
-![Redraw_the_person_in_this_image_as_a_stylized_2D_cartoon_character __Do_NOT_preserve_photorealistic__seed3587184286](https://github.com/user-attachments/assets/9d37f518-00bf-4b83-8192-edc7233efdba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0767e19d-d215-4eb1-ab65-3a5f8cbc2cd5" alt="README gif" width="400" />
+</p>
 
 ### CS student at Queen's University interested in AI/ML, Software, and Data ⚡
 
