@@ -2,7 +2,7 @@
 
 ![Redraw_the_person_in_this_image_as_a_stylized_2D_cartoon_character __Do_NOT_preserve_photorealistic__seed3587184286](https://github.com/user-attachments/assets/9d37f518-00bf-4b83-8192-edc7233efdba)
 
-### CS student at QueensU interested in AI/ML, Software, and Data ⚡
+### CS student at Queen's University interested in AI/ML, Software, and Data ⚡
 
 - 📫 How to reach me **abdullahmohsin010@gmail.com**
 
