@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdullah Mohsin
+# Hi, I'm Abdullah Mohsin
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0767e19d-d215-4eb1-ab65-3a5f8cbc2cd5" alt="README gif" width="400" />
@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/abdullah-mohsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdullah-mohsin1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-mohsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-mohsin1" height="30" width="40" /></a>
 </p>
 
